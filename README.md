@@ -1,4 +1,4 @@
-# Information / Информация
+# Information
 
 Тип контента **Новость**.
 
@@ -12,13 +12,13 @@
   - `source` - источник информации.
 - `date` - дата публикации новости.
 
-## Install / Установка
+## Install
 
 ```
 git submodule add https://gitlab.com/marketplace-hugo/hugo-ext-news.git archetypes/news
 ```
 
-## Update / Обновление
+## Update
 
 ```
 git submodule update --remote
